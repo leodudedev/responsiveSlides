@@ -4,7 +4,7 @@
 	"title": "jQuery responsive image slide",
     "description": "Full width image slide with fixed height",
     "keywords": [
-        "slides","Responsive","slideshow","fullscreen","full width slider","fixed height"
+        "slides","Responsive","slideshow","fullscreen","imageslide"
     ],
 	"dependencies": {
 		"jquery": ">=1.5",
