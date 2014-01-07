@@ -1,0 +1,31 @@
+{
+    "name": "responsiveSlides",
+    "version": "1.2.0",
+	"title": "jQuery responsive image slide",
+    "description": "Full width image slide with fixed height",
+    "keywords": [
+        "slides","Responsive","slideshow","fullscreen","full width slider","fixed height"
+    ],
+	"dependencies": {
+		"jquery": ">=1.5",
+		"onImagesLoad": ">=1.2.2"
+	},
+	"licenses": [
+		{
+		"type": "MIT",
+		"url": "http://opensource.org/licenses/mit-license.php"
+		},
+		{
+		"type": "GPL",
+		"url": "http://www.gnu.org/licenses/gpl.html"
+		}
+	],
+    "author": {
+        "name": "Leonardo Pinori",
+        "url": "https://github.com/leodudedev/"
+    },
+	"homepage": "https://github.com/leodudedev/responsiveSlides",
+	"docs": "https://github.com/leodudedev/responsiveSlides/blob/master/README.md",
+	"bugs": "https://github.com/leodudedev/responsiveSlides/issues",
+	"demo": "http://htmlpreview.github.io/?https://github.com/leodudedev/responsiveSlides/blob/master/demo.html"
+}
