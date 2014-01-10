@@ -63,5 +63,5 @@ var p=$('#content').responsiveSlides({
 Demo
 ---------------
 
-http://htmlpreview.github.io/?https://github.com/leodudedev/responsiveSlides/blob/master/demo.html
+http://leodudedev.github.io/responsiveSlides/
 

@@ -4,7 +4,7 @@
 	"title": "jQuery responsive image slide",
     "description": "Full width image slide with fixed height",
     "keywords": [
-        "slides","Responsive","slideshow","fullscreen","imageslide"
+        "slides","Responsive","slideshow","fullscreen","imageslide","images"
     ],
 	"dependencies": {
 		"jquery": ">=1.5",
@@ -27,5 +27,5 @@
 	"homepage": "https://github.com/leodudedev/responsiveSlides",
 	"docs": "https://github.com/leodudedev/responsiveSlides/blob/master/README.md",
 	"bugs": "https://github.com/leodudedev/responsiveSlides/issues",
-	"demo": "http://htmlpreview.github.io/?https://github.com/leodudedev/responsiveSlides/blob/master/demo.html"
+	"demo": "http://leodudedev.github.io/responsiveSlides/"
 }
